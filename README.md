@@ -1,4 +1,4 @@
-##Hi there, I'm Atom 👋
+## Hi there, I'm Atom 👋##
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building impactful projects and contributing to open-source communities. Here's a little more about me:
 

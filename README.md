@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Skills & Technologies:
 
-# •Programming Languages: Python, JavaScript, C++, Kotlin.
+•Programming Languages: Python, JavaScript, C++, Kotlin.
 
 # •Frameworks & Libraries: Node.js, React, Next.js, Tailwind.
 
-# •Databases: SQLite, MongoDB.
+•Databases: SQLite, MongoDB.
 
-# •Tools & Platforms: Git, AWS, GitHub Actions, Firebase, Vercel.
+•Tools & Platforms: Git, AWS, GitHub Actions, Firebase, Vercel.

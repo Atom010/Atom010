@@ -17,3 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 •⚡ Fun fact: I love exploring new technologies and staying up-to-date with industry trends.
 
 ## 🛠️ Skills & Technologies:
+
+# •Programming Languages: Python, JavaScript, C++, Kotlin.
+
+# •Frameworks & Libraries: Node.js, React, Next.js, Tailwind.
+
+# •Databases: SQLite, MongoDB.
+
+# •Tools & Platforms: Git, AWS, GitHub Actions, Firebase, Vercel.

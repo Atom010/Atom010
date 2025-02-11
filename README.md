@@ -15,3 +15,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 •📫 How to reach me: loneyasir55@gmail.com
 
 •⚡ Fun fact: I love exploring new technologies and staying up-to-date with industry trends.
+
+## 🛠️ Skills & Technologies:

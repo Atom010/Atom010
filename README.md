@@ -1,3 +1,8 @@
+Hi there, I'm Atom 👋
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building impactful projects and contributing to open-source communities. Here's a little more about me:
+
+
+
 •🔭 I’m currently working on various exciting projects across different domains.
 
 •🌱 I’m continuously learning and improving my skills in software development.

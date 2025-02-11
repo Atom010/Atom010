@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 •Programming Languages: Python, JavaScript, C++, Kotlin.
 
-# •Frameworks & Libraries: Node.js, React, Next.js, Tailwind.
+•Frameworks & Libraries: Node.js, React, Next.js, Tailwind.
 
 •Databases: SQLite, MongoDB.
 

@@ -50,7 +50,7 @@
   <br>
   <br>
 
-    <h2>Secondary skills</h2>
+  <h2>Secondary skills</h2>
 
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />

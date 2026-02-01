@@ -151,7 +151,7 @@
   <br>
   <br>
 
-    <h2>Github Statistic</h2>
+  <h2>Github Statistic</h2>
 
   <a href="https://github.com/Atom010">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atom010&theme=radical&hide_border=true" alt="GitHub Streak" />

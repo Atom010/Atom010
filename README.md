@@ -151,15 +151,15 @@
   <br>
   <br>
 
-  <h2>Github Statistic</h2>
+    <h2>Github Statistic</h2>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Atom010">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atom010&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atom010&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
 
   <br>
   <br>
@@ -184,7 +184,6 @@
   <br>
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e7587&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Atom010&color=0e7587&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-

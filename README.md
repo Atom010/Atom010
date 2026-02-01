@@ -6,7 +6,7 @@
 
   <br>
 
-  <img src="path/to/your/banner-image.png" alt="App Showcase Banner" width="100%" style="border-radius: 10px;" />
+  <img src="banner.jpg" alt="App Showcase Banner" width="100%" style="border-radius: 10px;" />
 
   <br>
   <br>
